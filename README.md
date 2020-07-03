@@ -1,5 +1,15 @@
 # wonya-frontend
 
+## Badges
+
+[![Build Status](https://travis-ci.org/tomuhenry/wonya-frontend.svg?branch=develop)](https://travis-ci.org/tomuhenry/wonya-frontend)
+
+## Link to heroku app
+
+[Wonya Frontend](https://wonya-front-end.herokuapp.com/)
+
+## Setup
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
